@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    font-size: 2em;
+}
+#Bigger {
+    border-radius: 20px;
+    font-size: 0.7em;
+    padding: 5px;
+}
+#Lower {
+    border-radius: 20px;
+    font-size:  0.7em;
+    padding: 5px;
+}
+#YesBtn {
+    border-radius: 20px;
+    font-size:  0.7em;
+    padding: 5px;
+}
+#letsgoBtn {
+    border-radius: 20px;
+    font-size:  0.7em;
+    padding: 5px;
+}
+footer {
+    font-family: Arial;
+    text-align: right;
+    font-size: 0.25em;
+}
